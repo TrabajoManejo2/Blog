@@ -1928,7 +1928,7 @@ button,
   -webkit-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   -ms-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
-  background-color: #f5f6f7;
+  background-color: #74e66a;
   font-size: 0.9em;
   position: relative;
   width: 26em; }
@@ -2054,13 +2054,13 @@ button,
       text-indent: 7.25em;
       width: 7.25em; }
       #sidebar .toggle:before {
-        color: #7f888f;
+        color: #24d009;
         margin-left: -0.0625em;
         margin-top: -0.25em;
         font-size: 1.1rem;
         z-index: 1; }
       #sidebar .toggle:after {
-        background: rgba(222, 225, 226, 0.75);
+        background: rgba(4, 112, 39, 0.75);
         border-radius: 0.375em;
         content: '';
         height: 3.5em;
@@ -2198,7 +2198,7 @@ button,
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  color: #3d4449;
+  color: #3549c9;
   font-family: "Roboto Slab", serif;
   font-weight: 400;
   letter-spacing: 0.075em;
@@ -2239,7 +2239,7 @@ button,
         -webkit-transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
         -ms-transition: color 0.2s ease-in-out, -ms-transform 0.2s ease-in-out;
         transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
-        color: #9fa3a6;
+        color: #003a67;
         content: '\f078';
         position: absolute;
         right: 0; }
@@ -2254,11 +2254,11 @@ button,
         transform: rotate(-180deg); }
 
 #menu > ul > li {
-  border-top: solid 1px rgba(210, 215, 217, 0.75);
+  border-top: solid 1px rgba(22, 84, 52, 0.75);
   margin: 0.5em 0 0 0;
   padding: 0.5em 0 0 0; }
   #menu > ul > li > ul {
-    color: #9fa3a6;
+    color: #098609;
     display: none;
     margin: 0.5em 0 1.5em 0;
     padding-left: 1em; }
